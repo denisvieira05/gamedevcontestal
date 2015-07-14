@@ -245,8 +245,9 @@
 		width: 140px;
 	}
 	.logo-text {
-		margin-top: -10px;
-		font-size: 0.9em;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-size: 1.2em;
 	}
 	#header nav {
 		display: none;
