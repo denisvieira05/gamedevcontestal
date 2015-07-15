@@ -389,6 +389,13 @@ svg.contact{
 	text-align: justify;
 	line-height: 1.4;
 }
+
+.more-text a{
+	color: #fff;
+}
+.more-text a:hover{
+	color: #ccc;
+}
 .msg{
 	font-weight: 300;
 	font-size: 1.4em;
